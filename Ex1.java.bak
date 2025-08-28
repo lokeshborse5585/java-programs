@@ -1,0 +1,14 @@
+class Ex1 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("lokesh");
+		int a=1;
+		while(a>8)
+		{
+			System.out.println("lokesh");
+			a++;
+		}
+	}
+		
+}

@@ -7,6 +7,5 @@ class Ex3
 		{
 			System.out.println(a);
 			a+=2;//compliment assignment opretaer
-		}
 	}
 }
